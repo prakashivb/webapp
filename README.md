@@ -13,4 +13,3 @@ Copyright Docker Inc Education Team 2014 <education@docker.com>
 
 ## Owner
  Prakash Inuganti
- 
